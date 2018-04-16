@@ -1,0 +1,11 @@
+Instruction to install Cocoapod and Firebase
+
+1. Watch the lecture video in Week 10, Cocoapods dependency manager and downloading an image with AlamoFire. 
+
+2. We are going to use Firebase instead of AlamoFire to allow user create account and login.
+
+3. https://www.appcoda.com/firebase-login-signup/    This link tells you how to use Firebase through cocoapod. 
+
+4. https://firebase.google.com/.    This is DB to store users info, you have to use it to manage all accounts that user created. I'll give the ID directly to you in order we manage the same DB.
+
+5. Since you add Podfile into the project, you can't directly to open it, instead, you need to open the file like "project.xcworkspace", where .xcworkspace is the file you need to open, compile and run. 
