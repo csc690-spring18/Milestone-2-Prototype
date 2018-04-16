@@ -15,7 +15,7 @@ Wenjun Zhu
 3. Users shall be able to remove the food items they have ordered. (16 hours, Xiayi Wang)
 4. Users shall be able to cancel the whole order at once. (16 hours, Wenjun Zhu)
 5. The app shall present the Terms and Conditions and Privacy Policy during the registration process. (16 hours, Wenjun Zhu)
-6. The site shall ask for username and password. (16 hours, Tyler Evans)
+6. The site shall ask for username and password if user never login and when user click checkout. (16 hours, Tyler Evans)
 
 
 - Nice to have features:
