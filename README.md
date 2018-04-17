@@ -8,7 +8,7 @@ Xiayi Wang,
 Wenjun Zhu
 
 
-- Must have features (semi-final version):
+- Must have features (final version):
 
 1. Users shall be able to browse through the site, but not have access to post or delete food item files. (16 hours, Bo Li)
 2. Users shall be able to create accounts and log in. (16 hours, Bo Li)
@@ -27,3 +27,7 @@ Wenjun Zhu
 5. Users shall be able to contact administrator. (16 hours, Xiayi Wang)
 6. Administrator shall be able to delete any listed food item files. (16 hours, Wenjun Zhu)
 7. Passwords shall be encrypted. (16 hours, Tyler Evans)
+
+Wire frames “Must-have features”:
+
+<a href="https://github.com/csc690-spring18/Milestone-2-Prototype/blob/master/resources/wire_frames.JPG">Click here</a>
