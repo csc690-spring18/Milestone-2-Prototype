@@ -7,6 +7,7 @@ Bo Li,
 Xiayi Wang, 
 Wenjun Zhu
 
+- Wire frames for must-have features: <a href="https://github.com/csc690-spring18/Milestone-2-Prototype/blob/master/resources/wire_frames.JPG">Click here</a>
 
 - Must have features (final version):
 
@@ -27,5 +28,3 @@ Wenjun Zhu
 5. Users shall be able to contact administrator. (16 hours, Xiayi Wang)
 6. Administrator shall be able to delete any listed food item files. (16 hours, Wenjun Zhu)
 7. Passwords shall be encrypted. (16 hours, Tyler Evans)
-
-- Wire frames “Must-have features”: <a href="https://github.com/csc690-spring18/Milestone-2-Prototype/blob/master/resources/wire_frames.JPG">Click here</a>
