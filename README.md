@@ -1,5 +1,5 @@
 # Milestone-2-Prototype
-Milestone 2 of Final Project
+Milestone 2 of CSC 690 Final Project
 
 Team members:
 Tyler Evans,
@@ -28,6 +28,4 @@ Wenjun Zhu
 6. Administrator shall be able to delete any listed food item files. (16 hours, Wenjun Zhu)
 7. Passwords shall be encrypted. (16 hours, Tyler Evans)
 
-Wire frames “Must-have features”:
-
-<a href="https://github.com/csc690-spring18/Milestone-2-Prototype/blob/master/resources/wire_frames.JPG">Click here</a>
+- Wire frames “Must-have features”: <a href="https://github.com/csc690-spring18/Milestone-2-Prototype/blob/master/resources/wire_frames.JPG">Click here</a>
